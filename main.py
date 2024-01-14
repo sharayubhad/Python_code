@@ -45,6 +45,6 @@ while(1):
     elif a==False:
         print("You lose!")
 
-    a = input("Do you want to play again?(y/n):  ").lower()
-    if(a!='y'):
+    b = input("Do you want to play again?(y/n):  ").lower()
+    if(b!='y'):
         break
