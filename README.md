@@ -1,4 +1,4 @@
-# DevOps Project 
+# DevOps Project (using python code)
 # Topic:CICD Pipeline Implementation Using AWS EC2 Instance and using Various Tools Like Jenkins, Docker and Webhook.
 # Commands on AWS Ec2 instance to install java,jenkins,docker can be done using following commands.
 # here we implement a pipeline using jenkins and build a docker image and docker container further created docker image is killed so that new docker image and container is build on jenkins. 
